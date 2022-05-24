@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130937486403",
+    "firebase_url": "https://sdfvdsg.firebaseio.com",
+    "project_id": "sdfvdsg",
+    "storage_bucket": "sdfvdsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130937486403:android:dcbf89ffe6e317e3cd28f6",
+        "android_client_info": {
+          "package_name": "arr.my.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130937486403-gis831jpfk8eqei6avqpnvupb6vinoc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7A02F_JEiHAINaD5NXkqIxFRjA53xnXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130937486403-gis831jpfk8eqei6avqpnvupb6vinoc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
